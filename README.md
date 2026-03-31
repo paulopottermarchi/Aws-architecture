@@ -15,7 +15,7 @@ The architecture covers the full data flow: from API ingestion through load bala
 
 ## Architecture Diagram
 
-     <img width="2047" height="1469" alt="file-AHoxToB3sAazylVoA2vNHD9t-Itau Diagrama Cloud 1" src="https://github.com/user-attachments/assets/0d142c79-39f6-466b-a424-03f0a5d1741e" />
+<img width="2047" height="1469" alt="file-AHoxToB3sAazylVoA2vNHD9t-Itau Diagrama Cloud 1" src="https://github.com/user-attachments/assets/0d142c79-39f6-466b-a424-03f0a5d1741e" />
  
 
 
